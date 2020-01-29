@@ -22,4 +22,4 @@ rvm:
 
 env:
   global:
-    secure: "your Secure Key"
+    secure: "2bf1b8d86018897e205a0fd5ed569756ce9f0c82"
